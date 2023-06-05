@@ -1,4 +1,4 @@
-# Project Sedum: A Setp Function Demo
+# Project Celosia: A Setp Function Demo - Transfer Data Records (Lambda, DynamoDB, Amazon SQS)
 
 This is a simple demo of an AWS Step function using Lambda, DynamoDB, SQS Queue to show looping within a workflow.
 
@@ -12,9 +12,7 @@ The entire stack is created using HashiCorp Terraform.
 
 ![Project Celosia - Services Used](https://subhamay-projects-repository-us-east-1.s3.amazonaws.com/0069-celosia/celosia-services-used-tf.png)
 
-
 ![Project Celosia - Workflow](https://subhamay-projects-repository-us-east-1.s3.amazonaws.com/0069-celosia/celosia-step-function.png)
-
 
 
 ### Installing
