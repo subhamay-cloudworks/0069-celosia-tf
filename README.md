@@ -10,6 +10,12 @@ The entire stack is created using HashiCorp Terraform.
 
 ![Project Celosia - Design Diagram](https://subhamay-projects-repository-us-east-1.s3.amazonaws.com/0069-celosia/celosia-architecture-diagram.png)
 
+![Project Celosia - Services Used](https://subhamay-projects-repository-us-east-1.s3.amazonaws.com/0069-celosia/celosia-services-used-tf.png)
+
+
+![Project Celosia - Workflow](https://subhamay-projects-repository-us-east-1.s3.amazonaws.com/0069-celosia/celosia-step-function.png)
+
+
 
 ### Installing
 
